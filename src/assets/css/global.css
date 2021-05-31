@@ -1,0 +1,27 @@
+html, body ,#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+/* 全局改变面包屑样式 */
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+/* 全局改变卡片样式 */
+.el-card {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+/* 全局改变table表格样式 */
+.el-table {
+  margin-top: 15px;
+  font-size: 12px;
+}
+/* 全局改变分页样式 */
+.el-pagination {
+  margin-top: 15px;
+}
+/* 全局改变tree_table样式 */
+.tree_table {
+  margin-top: 15px;
+}
